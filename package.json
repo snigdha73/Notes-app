@@ -8,6 +8,10 @@
   },
   "author": "",
   "license": "ISC",
+
+    "engines": {
+    "node": "11.0.0"
+  },
   "dependencies": {
     "lodash": "^4.17.21",
     "mongoose": "^5.12.2"
