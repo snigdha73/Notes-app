@@ -8,3 +8,7 @@
 • Deployed on  Heroku, database on mongo Atlas.
 
    https://immense-sands-44967.herokuapp.com/
+   
+• Deployed on Azure Web Apps
+
+   https://yourlist.azurewebsites.net/
